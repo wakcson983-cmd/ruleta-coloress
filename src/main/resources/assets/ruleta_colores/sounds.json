@@ -1,0 +1,29 @@
+{
+ "ruleta": {
+  "sounds": [
+   {
+    "name": "ruleta_colores:ruleta",
+    "stream": true
+   }
+  ],
+  "subtitle": "subtitles.ruleta_colores.ruleta"
+ },
+ "select": {
+  "sounds": [
+   {
+    "name": "ruleta_colores:select",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.ruleta_colores.select"
+ },
+ "bubble": {
+  "sounds": [
+   {
+    "name": "ruleta_colores:bubble",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.ruleta_colores.bubble"
+ }
+}
